@@ -1,0 +1,80 @@
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1427252358201">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="expert.css" crc="56377979" ref="expert"/>
+    <file name="howtos.css" crc="137182813" ref="howtos"/>
+    <file name="product-reviews.css" crc="3822813801" ref="product-reviews"/>
+    <file name="show.css" crc="3798546515" ref="show"/>
+    <file name="index.css" crc="3806665339" ref="index"/>
+    <file name="experts.css" crc="500163154" ref="experts"/>
+    <file name="tv.css" crc="3982614020" ref="tv"/>
+    <file name="tips.css" crc="4201392328" ref="tips"/>
+    <file name="product.css" crc="209561605" ref="product"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:product-reviews:product:tips:tv:howtos:show:experts:expert"/>
+    <file name="museutils.js" crc="479751881" ref="index:product-reviews:product:tips:tv:howtos:show:experts:expert"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="product-reviews:product:tips:tv:howtos:show:experts:expert"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted svg 52x52.svg" crc="4222093617" ref="index:product-reviews:product:tips:tv:howtos:show:experts:expert"/>
+    <file name="pasted svg 52x52_poster_.png" crc="3855948344" ref="index"/>
+    <file name="pasted svg 35602x35.svg" crc="115079706" ref="index:product-reviews:product"/>
+    <file name="pasted svg 35602x35_poster_.png" crc="502752554" ref="index"/>
+    <file name="pasted svg 35193x35.svg" crc="4004005065" ref="index"/>
+    <file name="pasted svg 35193x35_poster_.png" crc="334067420" ref="index"/>
+    <file name="pasted svg 43338x34.svg" crc="529525447" ref="index"/>
+    <file name="pasted svg 43338x34_poster_.png" crc="247415703" ref="index"/>
+    <file name="pasted svg 34x34.svg" crc="3970026780" ref="index"/>
+    <file name="pasted svg 34x34_poster_.png" crc="3952017213" ref="index"/>
+    <file name="pasted svg 148914x29.svg" crc="287110774" ref="product-reviews:tips:tv:experts"/>
+    <file name="pasted svg 148914x29_poster_.png" crc="3953178558" ref="product-reviews"/>
+    <file name="pasted svg 81.svg" crc="425122981" ref="product-reviews:tips:tv:experts"/>
+    <file name="pasted svg 81_poster_.png" crc="514325972" ref="product-reviews"/>
+    <file name="pasted svg 30633x29.svg" crc="279264865" ref="product-reviews:product:tips:tv:howtos:show:experts:expert"/>
+    <file name="pasted svg 30633x29_poster_.png" crc="347064913" ref="product-reviews"/>
+    <file name="pasted svg 148914x292.svg" crc="4027229865" ref="product:howtos:show:expert"/>
+    <file name="pasted svg 148914x29_poster_2.png" crc="4012980598" ref="product"/>
+    <file name="pasted svg 20.svg" crc="490288061" ref="product:howtos:show:expert"/>
+    <file name="pasted svg 20_poster_.png" crc="149157552" ref="product"/>
+    <file name="pasted svg 209594x32.svg" crc="4171561041" ref="product:howtos:show:expert"/>
+    <file name="pasted svg 209594x32_poster_.png" crc="4143985840" ref="product"/>
+    <file name="pasted svg 209742x110.svg" crc="212028077" ref="product:howtos:show:expert"/>
+    <file name="pasted svg 209742x110_poster_.png" crc="4119690211" ref="product"/>
+    <file name="pasted svg 66727x30.svg" crc="4008472494" ref="product:howtos:show:expert"/>
+    <file name="pasted svg 66727x30_poster_.png" crc="357907096" ref="product"/>
+    <file name="pasted svg 35193x352.svg" crc="471756422" ref="tips"/>
+    <file name="pasted svg 35193x35_poster_2.png" crc="3860209686" ref="tips"/>
+    <file name="pasted svg 43338x342.svg" crc="283601968" ref="tv"/>
+    <file name="pasted svg 43338x34_poster_2.png" crc="3952835026" ref="tv"/>
+    <file name="pasted svg 43338x343.svg" crc="283601968" ref="tv"/>
+    <file name="pasted svg 43338x34_poster_3.png" crc="3952835026" ref="tv"/>
+    <file name="pasted svg 43338x344.svg" crc="283601968" ref="tv"/>
+    <file name="pasted svg 43338x34_poster_4.png" crc="3952835026" ref="tv"/>
+    <file name="pasted svg 43338x345.svg" crc="283601968" ref="tv"/>
+    <file name="pasted svg 43338x34_poster_5.png" crc="3952835026" ref="tv"/>
+    <file name="pasted svg 35193x353.svg" crc="29521096" ref="howtos"/>
+    <file name="pasted svg 35193x35_poster_3.png" crc="334067420" ref="howtos"/>
+    <file name="pasted svg 43338x346.svg" crc="4027641280" ref="show"/>
+    <file name="pasted svg 43338x34_poster_6.png" crc="247415703" ref="show"/>
+    <file name="pasted svg 34x342.svg" crc="3970026780" ref="experts"/>
+    <file name="pasted svg 34x34_poster_2.png" crc="3952017213" ref="experts"/>
+    <file name="pasted svg 34x343.svg" crc="3970026780" ref="experts"/>
+    <file name="pasted svg 34x34_poster_3.png" crc="3952017213" ref="experts"/>
+    <file name="pasted svg 34x344.svg" crc="3970026780" ref="experts"/>
+    <file name="pasted svg 34x34_poster_4.png" crc="3952017213" ref="experts"/>
+    <file name="pasted svg 34x345.svg" crc="3970026780" ref="experts"/>
+    <file name="pasted svg 34x34_poster_5.png" crc="3952017213" ref="experts"/>
+    <file name="pasted svg 34x346.svg" crc="3970026780" ref="expert"/>
+    <file name="pasted svg 34x34_poster_6.png" crc="3952017213" ref="expert"/>
+  </folder>
+  <file name="index.html" crc="231300400" mt="1427252169889" redirect="true"/>
+  <file name="product-reviews.html" crc="69522803" mt="1427252038869" redirect="true"/>
+  <file name="product.html" crc="251974539" mt="1427251913708" redirect="true"/>
+  <file name="tips.html" crc="424475710" mt="1427252059452" redirect="true"/>
+  <file name="tv.html" crc="3924886036" mt="1427252087387" redirect="true"/>
+  <file name="howtos.html" crc="435505714" mt="1427251930177" redirect="true"/>
+  <file name="show.html" crc="3976333230" mt="1427251947532" redirect="true"/>
+  <file name="experts.html" crc="74034058" mt="1427252114472" redirect="true"/>
+  <file name="expert.html" crc="3810802080" mt="1427251961162" redirect="true"/>
+</manifest>
